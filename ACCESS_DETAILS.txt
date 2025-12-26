@@ -1,0 +1,12 @@
+superadmin@curevirtual.com
+admin@curevirtual.com
+support@curevirtual.com
+patient3@curevirtual.com
+patient1@curevirtual.com
+patient2@curevirtual.com
+doctor3@curevirtual.com
+doctor1@curevirtual.com
+doctor2@curevirtual.com
+pharmacy@curevirtual.com
+
+All Passwords: 123456
